@@ -7,13 +7,13 @@
 
 ## Submission Contents:
 
-* a written description of the proposed mobile experience, no more than 2 pages long, with bullets outlining user steps and limitations, in PDF or MS Word format. Status: COMPLETE *see .pdf*
+* a written description of the proposed mobile experience, no more than 2 pages long, with bullets outlining user steps and limitations, in PDF or MS Word format. Status: COMPLETE _see .pdf_
 
-* a video no more than 30 seconds long that describes or depicts the use case for the proposed mobile experience and/or introduces the Contestant or team. Status: COMPLETE(ish) *see .mov*
+* a video no more than 30 seconds long that describes or depicts the use case for the proposed mobile experience and/or introduces the Contestant or team. Status: COMPLETE(ish) _see .mov_
 
-* at least 1 but no more than 10 visual examples of the proposed mobile experience (e.g., wireframes, screenshots, mock ups). Status: COMPLETE *see /wires/\*.jpg*
+* at least 1 but no more than 10 visual examples of the proposed mobile experience (e.g., wireframes, screenshots, mock ups). Status: COMPLETE _see /wires/*.jpg_
 
 
 ## Final Words
 
-_To the extent permitted by contest rules and copyright law, Greyworks retains ownership of original works created in this contest submission._
+_To the extent permitted by contest rules and copyright law, Greyworks LLC retains ownership of all original works created in this contest submission._
