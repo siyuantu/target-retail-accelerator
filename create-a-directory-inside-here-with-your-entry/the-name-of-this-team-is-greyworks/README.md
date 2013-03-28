@@ -1,13 +1,13 @@
 # The Name Of This Team is Greyworks
 (The name of the team is also self-descriptive, though if you prefer, you may call it simply, "Greyworks")
 
-## Members of Team Greyworks:
+## Members of The Name Of This Team is Greyworks:
 
 1. Michael E. Gruen
 
 ## Submission Contents:
 
-* a written description of the proposed mobile experience, no more than 2 pages long, with bullets outlining user steps and limitations, in PDF or MS Word format. Status: INCOMPLETE
+* a written description of the proposed mobile experience, no more than 2 pages long, with bullets outlining user steps and limitations, in PDF or MS Word format. Status: COMPLETE
 
 * a video no more than 30 seconds long that describes or depicts the use case for the proposed mobile experience and/or introduces the Contestant or team. Status: INCOMPLETE
 
