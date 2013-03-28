@@ -11,7 +11,7 @@
 
 * a video no more than 30 seconds long that describes or depicts the use case for the proposed mobile experience and/or introduces the Contestant or team. Status: INCOMPLETE
 
-* at least 1 but no more than 10 visual examples of the proposed mobile experience (e.g., wireframes, screenshots, mock ups). Status: INCOMPLETE
+* at least 1 but no more than 10 visual examples of the proposed mobile experience (e.g., wireframes, screenshots, mock ups). Status: COMPLETE
 
 
 ## Final Words
